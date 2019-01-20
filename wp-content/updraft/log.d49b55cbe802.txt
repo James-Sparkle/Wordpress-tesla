@@ -1,0 +1,524 @@
+0000.001 (0) Opened log file at time: Sat, 05 Jan 2019 18:34:14 +0000 on http://teslas.by
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.0 WP: 5.0.2 PHP: 7.2.10 (apache2handler, Windows NT DESKTOP-EUMU4UJ 10.0 build 17134 (Windows 10) AMD64) MySQL: 8.0.12 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 1536M (used: 59.4M | 42M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 79115.5 MB
+0000.014 (0) Tasks: Backup files: 1 (schedule: every4hours) Backup DB:  (schedule: every4hours)
+0000.018 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.043 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1546702145, seconds_ago=11109)
+0000.053 (0) Set semaphore last lock (fd) time to 2019-01-05 18:34:14
+0000.054 (0) Semaphore lock (fd) complete
+0000.151 (0) Backup run: resumption=0, nonce=d49b55cbe802, file_nonce=d49b55cbe802 begun at=1546713254 (0s ago), job type=backup
+0000.154 (0) Scheduling a resumption (1) after 300 seconds (1546713554) in case this run gets aborted
+0000.211 (0) Checking if we have a zip executable available
+0000.218 (0) Creation of backups of directories: beginning
+0000.230 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0019.374 (0) Total entities for the zip file: 1209 directories, 6111 files (0 skipped as non-modified), 81 MB
+0019.465 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0020.838 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 100 files added (on-disk size: 203 KB)
+0021.721 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 110 (111) files added so far); re-opening (prior size: 203 KB)
+0023.328 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 200 files added (on-disk size: 333.3 KB)
+0024.234 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 300 files added (on-disk size: 333.3 KB)
+0024.705 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 235 (346) files added so far); re-opening (prior size: 333.3 KB)
+0025.638 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 400 files added (on-disk size: 630.3 KB)
+0026.524 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 500 files added (on-disk size: 630.3 KB)
+0027.709 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 250 (596) files added so far); re-opening (prior size: 630.3 KB)
+0027.978 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 600 files added (on-disk size: 958.1 KB)
+0029.237 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 700 files added (on-disk size: 958.1 KB)
+0030.047 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 800 files added (on-disk size: 958.1 KB)
+0030.713 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 280 (876) files added so far); re-opening (prior size: 958.1 KB)
+0031.413 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 900 files added (on-disk size: 1449.2 KB)
+0034.013 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 72 (948) files added so far); re-opening (prior size: 1449.2 KB)
+0036.186 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1000 files added (on-disk size: 1735.7 KB)
+0036.965 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1100 files added (on-disk size: 1735.7 KB)
+0037.698 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 248 (1196) files added so far); re-opening (prior size: 1735.7 KB)
+0038.045 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1200 files added (on-disk size: 2659.9 KB)
+0038.758 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1300 files added (on-disk size: 2659.9 KB)
+0039.336 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1400 files added (on-disk size: 2659.9 KB)
+0040.246 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1500 files added (on-disk size: 2659.9 KB)
+0040.706 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5 MB, 327 (1523) files added so far); re-opening (prior size: 2659.9 KB)
+0042.748 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1600 files added (on-disk size: 3854 KB)
+0043.495 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1700 files added (on-disk size: 3854 KB)
+0043.702 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 204 (1727) files added so far); re-opening (prior size: 3854 KB)
+0045.452 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1800 files added (on-disk size: 5291.9 KB)
+0046.579 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 1900 files added (on-disk size: 5291.9 KB)
+0047.371 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2000 files added (on-disk size: 5291.9 KB)
+0047.705 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 309 (2036) files added so far); re-opening (prior size: 5291.9 KB)
+0048.814 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2100 files added (on-disk size: 6190 KB)
+0049.767 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2200 files added (on-disk size: 6190 KB)
+0050.699 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 255 (2291) files added so far); re-opening (prior size: 6190 KB)
+0051.217 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2300 files added (on-disk size: 6710.7 KB)
+0052.151 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2400 files added (on-disk size: 6710.7 KB)
+0052.591 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2500 files added (on-disk size: 6710.7 KB)
+0053.020 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2600 files added (on-disk size: 6710.7 KB)
+0053.344 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2700 files added (on-disk size: 6710.7 KB)
+0053.700 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 490 (2781) files added so far); re-opening (prior size: 6710.7 KB)
+0054.333 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2800 files added (on-disk size: 7653.2 KB)
+0055.248 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 2900 files added (on-disk size: 7653.2 KB)
+0056.698 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 197 (2978) files added so far); re-opening (prior size: 7653.2 KB)
+0057.338 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3000 files added (on-disk size: 8484.2 KB)
+0057.979 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3100 files added (on-disk size: 8484.2 KB)
+0059.253 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3200 files added (on-disk size: 8484.2 KB)
+0059.699 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.9 MB, 318 (3296) files added so far); re-opening (prior size: 8484.2 KB)
+0060.692 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3300 files added (on-disk size: 13304.5 KB)
+0061.516 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3400 files added (on-disk size: 13304.5 KB)
+0062.710 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.3 MB, 204 (3500) files added so far); re-opening (prior size: 13304.5 KB)
+0063.749 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3500 files added (on-disk size: 15301.1 KB)
+0064.887 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3600 files added (on-disk size: 15301.1 KB)
+0065.447 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3700 files added (on-disk size: 15301.1 KB)
+0065.969 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3800 files added (on-disk size: 15301.1 KB)
+0066.587 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 3900 files added (on-disk size: 15301.1 KB)
+0066.701 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.5 MB, 420 (3920) files added so far); re-opening (prior size: 15301.1 KB)
+0069.867 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4000 files added (on-disk size: 18469.2 KB)
+0070.344 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4100 files added (on-disk size: 18469.2 KB)
+0070.873 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4200 files added (on-disk size: 18469.2 KB)
+0071.618 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4300 files added (on-disk size: 18469.2 KB)
+0071.701 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 395 (4315) files added so far); re-opening (prior size: 18469.2 KB)
+0073.534 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4400 files added (on-disk size: 19280.3 KB)
+0074.055 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4500 files added (on-disk size: 19280.3 KB)
+0074.705 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 266 (4581) files added so far); re-opening (prior size: 19280.3 KB)
+0075.451 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4600 files added (on-disk size: 19588.5 KB)
+0076.610 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4700 files added (on-disk size: 19588.5 KB)
+0077.534 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4800 files added (on-disk size: 19588.5 KB)
+0077.704 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (13.5 MB, 233 (4814) files added so far); re-opening (prior size: 19588.5 KB)
+0081.013 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 4900 files added (on-disk size: 22842.4 KB)
+0081.698 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 175 (4989) files added so far); re-opening (prior size: 22842.4 KB)
+0082.590 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5000 files added (on-disk size: 23644.5 KB)
+0083.700 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5100 files added (on-disk size: 23644.5 KB)
+0084.689 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5200 files added (on-disk size: 23644.5 KB)
+0084.699 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 214 (5203) files added so far); re-opening (prior size: 23644.5 KB)
+0085.928 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5300 files added (on-disk size: 24139.6 KB)
+0086.477 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5400 files added (on-disk size: 24139.6 KB)
+0087.017 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5500 files added (on-disk size: 24139.6 KB)
+0087.544 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5600 files added (on-disk size: 24139.6 KB)
+0087.701 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.1 MB, 421 (5624) files added so far); re-opening (prior size: 24139.6 KB)
+0089.401 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5700 files added (on-disk size: 25267.8 KB)
+0090.434 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5800 files added (on-disk size: 25267.8 KB)
+0090.701 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 201 (5825) files added so far); re-opening (prior size: 25267.8 KB)
+0093.620 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 5900 files added (on-disk size: 25609 KB)
+0093.702 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 81 (5906) files added so far); re-opening (prior size: 25609 KB)
+0096.258 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 6000 files added (on-disk size: 25715.1 KB)
+0096.702 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 141 (6047) files added so far); re-opening (prior size: 25715.1 KB)
+0098.028 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip.tmp: 6100 files added (on-disk size: 25923.8 KB)
+0099.865 (0) Created plugins zip (0) - 26062.6 KB in 99.6 s (261.6 KB/s) (sha1: a3c5a32b385e5afd30f0be07c20aa54bb0dc02fb, sha256: 79a196b8cf141842cd56b7bdd2175fb1df807e4b2093ee75dc03202c0dce66cf)
+0099.886 (0) Beginning creation of dump of themes (split every: 400 MB)
+0101.803 (0) Total entities for the zip file: 153 directories, 611 files (0 skipped as non-modified), 8.9 MB
+0102.730 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 89 (89) files added so far); re-opening (prior size: 0 KB)
+0103.213 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip.tmp: 100 files added (on-disk size: 338.3 KB)
+0104.628 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip.tmp: 200 files added (on-disk size: 338.3 KB)
+0105.679 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip.tmp: 300 files added (on-disk size: 338.3 KB)
+0105.720 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 214 (303) files added so far); re-opening (prior size: 338.3 KB)
+0108.702 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.4 MB, 90 (393) files added so far); re-opening (prior size: 668.8 KB)
+0109.104 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip.tmp: 400 files added (on-disk size: 2238.4 KB)
+0111.035 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip.tmp: 500 files added (on-disk size: 2238.4 KB)
+0111.733 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 130 (523) files added so far); re-opening (prior size: 2238.4 KB)
+0113.839 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip.tmp: 600 files added (on-disk size: 3735.3 KB)
+0114.388 (0) Created themes zip (0) - 4766.6 KB in 14.5 s (328.8 KB/s) (sha1: cc60202504ed5108f8807ffc167579b78a47d938, sha256: 0fe517bde78ef4392f1307d6f7545372835d465984d850bad9a6a4fc986e6cf8)
+0114.395 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0114.397 (0) Looking for candidates to backup in: W:\domains\teslas.by/wp-content/uploads
+0114.398 (0) finding files: 2018: adding to list (1)
+0114.400 (0) finding files: 2019: adding to list (2)
+0114.424 (0) finding files: astra-addon: adding to list (3)
+0114.425 (0) finding files: elementor: adding to list (4)
+0114.427 (0) finding files: GeoLite2-Country.mmdb: adding to list (5)
+0114.432 (0) finding files: wc-logs: adding to list (6)
+0114.433 (0) finding files: woocommerce_uploads: adding to list (7)
+0114.434 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0115.535 (0) Total entities for the zip file: 10 directories, 229 files (0 skipped as non-modified), 303.6 MB
+0115.967 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (81.2 MB, 229 files batched, 9 (9) added so far); re-opening (prior size: 0 KB)
+0124.407 (0) A useful amount of data was added after this amount of zip processing: 10.7 s (normalised: 3.3 s, rate: 7762.3 KB/s)
+0124.409 (0) Performance is good - will increase the amount of data we attempt to batch (time=10.709259033203, normalised_time=3.2979703800023, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=47691877)
+0124.533 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 45.5 MB added on this batch (71.2 MB, 229 files batched, 1 (10) added so far); re-opening (prior size: 83131.5 KB)
+0133.427 (0) A useful amount of data was added after this amount of zip processing: 9.7 s (normalised: 6.2 s, rate: 7494.4 KB/s)
+0133.525 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 45.5 MB added on this batch (61.5 MB, 229 files batched, 1 (11) added so far); re-opening (prior size: 156047.2 KB)
+0137.715 (0) A useful amount of data was added after this amount of zip processing: 5 s (normalised: 3.7 s, rate: 12550.9 KB/s)
+0137.718 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.0180370807648, normalised_time=3.7108063229637, max_time=-1, data points known=0, old_max_bytes=47691877, new_max_bytes=77112960)
+0139.067 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-uploads.zip.tmp: 100 files added (on-disk size: 219028.4 KB)
+0139.244 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 73.5 MB added on this batch (73.6 MB, 229 files batched, 103 (114) added so far); re-opening (prior size: 219028.4 KB)
+0144.754 (0) A useful amount of data was added after this amount of zip processing: 7.1 s (normalised: 7.1 s, rate: 10679.3 KB/s)
+0145.781 (0) Zip: backup_2019-01-05-2134_Tesla_d49b55cbe802-uploads.zip.tmp: 200 files added (on-disk size: 294357 KB)
+0168.439 (0) Created uploads zip (0) - 309020.2 KB in 54 s (5722.6 KB/s) (sha1: adfc67cc70df2899810a3c664d6b6f48090b31e9, sha256: 68b0c04a0a23a3f97ad87b3e9f39fc8f52ae27e1891f1fe1c41bbf5e727891ad)
+0168.464 (0) Beginning backup of other directories found in the content directory (index: 0)
+0168.466 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0168.469 (0) Looking for candidates to backup in: W:\domains\teslas.by/wp-content
+0168.471 (0) finding files: cache: skipping: excluded by options
+0168.472 (0) finding files: index.php: adding to list (1)
+0168.473 (0) finding files: languages: adding to list (2)
+0168.474 (0) finding files: plugins: skipping: this is the plugins directory
+0168.475 (0) finding files: themes: skipping: this is the themes directory
+0168.475 (0) finding files: updraft: skipping: this is the updraft directory
+0168.476 (0) finding files: upgrade: skipping: excluded by options
+0168.477 (0) finding files: uploads: skipping: this is the uploads directory
+0168.641 (0) Total entities for the zip file: 5 directories, 55 files (0 skipped as non-modified), 6.2 MB
+0170.307 (0) Created others zip (0) - 1551.9 KB in 1.8 s (850 KB/s) (sha1: 8365cc55c28ca2dc203befba58ef49c440e30905, sha256: 8c9ea4b3f73179cf872c769f6e6467f0a05d4e43db9d816e4ee9a0c4f697b232)
+0170.336 (0) Saving backup status to database (elements: 8)
+0170.341 (0) Beginning creation of database dump (WordPress DB)
+0170.829 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0173.978 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n SET character_set_client = utf8mb4 ;\nCREATE TAB (truncated - 1039 bytes total)
+0173.994 (0) Binary mysqldump: error (code: 2)
+0174.033 (0) Table wp_options: Total expected rows (approximate): 459
+0174.103 (0) Table wp_options: Total rows added: 460 in 0.07 seconds
+0174.107 (0) Table wp_options: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_options.table.gz - 193.1 KB)
+0174.116 (0) Table wp_users: Total expected rows (approximate): 0
+0174.127 (0) Table wp_users: Total rows added: 1 in 0.01 seconds
+0174.129 (0) Table wp_users: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_users.table.gz - 0.6 KB)
+0174.151 (0) Table wp_usermeta: Total expected rows (approximate): 57
+0174.157 (0) Table wp_usermeta: Total rows added: 63 in 0.01 seconds
+0174.160 (0) Table wp_usermeta: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_usermeta.table.gz - 2.4 KB)
+0174.167 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0174.173 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0174.174 (0) Table wp_commentmeta: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0174.192 (0) Table wp_comments: Total expected rows (approximate): 5
+0174.204 (0) Table wp_comments: Total rows added: 6 in 0.01 seconds
+0174.206 (0) Table wp_comments: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_comments.table.gz - 1.2 KB)
+0174.215 (0) Table wp_links: Total expected rows (approximate): 0
+0174.221 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0174.223 (0) Table wp_links: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_links.table.gz - 0.4 KB)
+0174.237 (0) Table wp_postmeta: Total expected rows (approximate): 2232
+0174.734 (0) Table wp_postmeta: Total rows added: 2063 in 0.50 seconds
+0174.736 (0) Table wp_postmeta: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_postmeta.table.gz - 938.9 KB)
+0174.743 (0) Table wp_posts: Total expected rows (approximate): 344
+0174.806 (0) Table wp_posts: Total rows added: 353 in 0.06 seconds
+0174.809 (0) Table wp_posts: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_posts.table.gz - 54.3 KB)
+0174.816 (0) Table wp_term_relationships: Total expected rows (approximate): 29
+0174.820 (0) Table wp_term_relationships: Total rows added: 29 in 0.00 seconds
+0174.822 (0) Table wp_term_relationships: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0174.841 (0) Table wp_term_taxonomy: Total expected rows (approximate): 29
+0174.847 (0) Table wp_term_taxonomy: Total rows added: 32 in 0.00 seconds
+0174.849 (0) Table wp_term_taxonomy: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_term_taxonomy.table.gz - 0.8 KB)
+0174.856 (0) Table wp_termmeta: Total expected rows (approximate): 2
+0174.860 (0) Table wp_termmeta: Total rows added: 2 in 0.00 seconds
+0174.862 (0) Table wp_termmeta: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_termmeta.table.gz - 0.4 KB)
+0174.905 (0) Table wp_terms: Total expected rows (approximate): 27
+0174.910 (0) Table wp_terms: Total rows added: 32 in 0.00 seconds
+0174.912 (0) Table wp_terms: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_terms.table.gz - 0.8 KB)
+0174.920 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 33
+0174.929 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 33 in 0.01 seconds
+0174.930 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_order_itemmeta.table.gz - 1.2 KB)
+0174.948 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0174.954 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0174.955 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0174.964 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0174.970 (0) Table wp_wc_download_log: Total rows added: 0 in 0.00 seconds
+0174.972 (0) Table wp_wc_download_log: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0174.980 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0174.985 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0174.987 (0) Table wp_wc_webhooks: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0174.997 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0175.003 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.01 seconds
+0175.005 (0) Table wp_woocommerce_api_keys: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0175.015 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0175.020 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0175.022 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0175.037 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0175.043 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0175.045 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0175.051 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0175.062 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.01 seconds
+0175.066 (0) Table wp_woocommerce_log: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0175.074 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 5
+0175.107 (0) Table wp_woocommerce_order_items: Total rows added: 5 in 0.01 seconds
+0175.109 (0) Table wp_woocommerce_order_items: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_order_items.table.gz - 0.5 KB)
+0175.116 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0175.122 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0175.124 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0175.130 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0175.136 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0175.138 (0) Table wp_woocommerce_sessions: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_sessions.table.gz - 0.9 KB)
+0175.151 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0175.156 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 1 in 0.00 seconds
+0175.157 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0175.165 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0175.170 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 2 in 0.00 seconds
+0175.172 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0175.193 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0175.198 (0) Table wp_woocommerce_shipping_zones: Total rows added: 1 in 0.00 seconds
+0175.199 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0175.207 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0175.215 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0175.216 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0175.227 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0175.233 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0175.234 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0175.253 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_options.table.gz (1/28): adding to final database dump
+0175.304 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_users.table.gz (2/28): adding to final database dump
+0175.306 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_usermeta.table.gz (3/28): adding to final database dump
+0175.308 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_commentmeta.table.gz (4/28): adding to final database dump
+0175.310 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_comments.table.gz (5/28): adding to final database dump
+0175.311 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_links.table.gz (6/28): adding to final database dump
+0175.317 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_postmeta.table.gz (7/28): adding to final database dump
+0175.617 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_posts.table.gz (8/28): adding to final database dump
+0175.644 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_term_relationships.table.gz (9/28): adding to final database dump
+0175.646 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_term_taxonomy.table.gz (10/28): adding to final database dump
+0175.648 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_termmeta.table.gz (11/28): adding to final database dump
+0175.649 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_terms.table.gz (12/28): adding to final database dump
+0175.650 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_order_itemmeta.table.gz (13/28): adding to final database dump
+0175.652 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_payment_tokenmeta.table.gz (14/28): adding to final database dump
+0175.653 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_wc_download_log.table.gz (15/28): adding to final database dump
+0175.655 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_wc_webhooks.table.gz (16/28): adding to final database dump
+0175.656 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_api_keys.table.gz (17/28): adding to final database dump
+0175.657 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_attribute_taxonomies.table.gz (18/28): adding to final database dump
+0175.659 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (19/28): adding to final database dump
+0175.660 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_log.table.gz (20/28): adding to final database dump
+0175.662 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_order_items.table.gz (21/28): adding to final database dump
+0175.663 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_payment_tokens.table.gz (22/28): adding to final database dump
+0175.692 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_sessions.table.gz (23/28): adding to final database dump
+0175.693 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_shipping_zone_locations.table.gz (24/28): adding to final database dump
+0175.695 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_shipping_zone_methods.table.gz (25/28): adding to final database dump
+0175.697 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_shipping_zones.table.gz (26/28): adding to final database dump
+0175.699 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_tax_rate_locations.table.gz (27/28): adding to final database dump
+0175.700 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db-table-wp_woocommerce_tax_rates.table.gz (28/28): adding to final database dump
+0175.703 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db.gz: finished writing out complete database file (1176 KB)
+0175.734 (0) Total database tables backed up: 28 (backup_2019-01-05-2134_Tesla_d49b55cbe802-db.gz, size: 1223200, sha256)
+0175.752 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0175.754 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0175.755 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0175.756 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-others.zip: others: This file has not yet been successfully uploaded: will queue
+0175.758 (0) backup_2019-01-05-2134_Tesla_d49b55cbe802-db.gz: db: This file has not yet been successfully uploaded: will queue
+0175.760 (0) Saving backup history. Total backup size: 334.6 MB
+0175.770 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0175.774 (0) Cloud backup selection (1/1): ftp with instance (1/1) (last)
+0175.776 (0) Beginning dispatch of backup to remote (ftp) (instance identifier s-22183358e70a4488c8d1993dedc051bd)
+0175.806 (0) FTP upload attempt: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip -> ftp://tesla@127.0.0.1//backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip
+0175.864 (0) Ftp chunked upload: 2 % uploaded
+0175.904 (0) Ftp chunked upload: 4 % uploaded
+0175.927 (0) Ftp chunked upload: 5.9 % uploaded
+0175.960 (0) Ftp chunked upload: 7.9 % uploaded
+0176.003 (0) Ftp chunked upload: 11.9 % uploaded
+0176.044 (0) Ftp chunked upload: 15.8 % uploaded
+0176.126 (0) Ftp chunked upload: 23.7 % uploaded
+0176.216 (0) Ftp chunked upload: 31.5 % uploaded
+0176.293 (0) Ftp chunked upload: 39.4 % uploaded
+0176.358 (0) Ftp chunked upload: 47.3 % uploaded
+0176.423 (0) Ftp chunked upload: 55.2 % uploaded
+0176.514 (0) Ftp chunked upload: 63 % uploaded
+0176.593 (0) Ftp chunked upload: 70.9 % uploaded
+0176.763 (0) Ftp chunked upload: 78.8 % uploaded
+0176.872 (0) Ftp chunked upload: 86.6 % uploaded
+0176.960 (0) Ftp chunked upload: 94.5 % uploaded
+0177.474 (0) FTP upload attempt successful (26062.6KB in 1.67s)
+0177.475 (0) Recording as successfully uploaded: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip
+0177.482 (0) Deleting local file: backup_2019-01-05-2134_Tesla_d49b55cbe802-plugins.zip: OK
+0177.483 (0) FTP upload attempt: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip -> ftp://tesla@127.0.0.1//backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip
+0177.507 (0) Ftp chunked upload: 10.8 % uploaded
+0177.545 (0) Ftp chunked upload: 21.6 % uploaded
+0177.566 (0) Ftp chunked upload: 32.5 % uploaded
+0177.593 (0) Ftp chunked upload: 43.3 % uploaded
+0177.635 (0) Ftp chunked upload: 64.9 % uploaded
+0177.673 (0) Ftp chunked upload: 86.4 % uploaded
+0177.783 (0) FTP upload attempt successful (4766.6KB in 0.3s)
+0177.786 (0) Recording as successfully uploaded: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip
+0177.791 (0) Deleting local file: backup_2019-01-05-2134_Tesla_d49b55cbe802-themes.zip: OK
+0177.832 (0) FTP upload attempt: backup_2019-01-05-2134_Tesla_d49b55cbe802-uploads.zip -> ftp://tesla@127.0.0.1//backup_2019-01-05-2134_Tesla_d49b55cbe802-uploads.zip
+0177.863 (0) Ftp chunked upload: 0.2 % uploaded
+0177.926 (0) Ftp chunked upload: 0.3 % uploaded
+0177.956 (0) Ftp chunked upload: 0.5 % uploaded
+0177.993 (0) Ftp chunked upload: 0.7 % uploaded
+0178.049 (0) Ftp chunked upload: 1 % uploaded
+0178.093 (0) Ftp chunked upload: 1.3 % uploaded
+0178.163 (0) Ftp chunked upload: 2 % uploaded
+0178.238 (0) Ftp chunked upload: 2.7 % uploaded
+0178.308 (0) Ftp chunked upload: 3.3 % uploaded
+0178.377 (0) Ftp chunked upload: 4 % uploaded
+0178.530 (0) Ftp chunked upload: 4.7 % uploaded
+0178.667 (0) Ftp chunked upload: 5.3 % uploaded
+0178.838 (0) Ftp chunked upload: 6 % uploaded
+0178.949 (0) Ftp chunked upload: 6.6 % uploaded
+0179.032 (0) Ftp chunked upload: 7.3 % uploaded
+0179.169 (0) Ftp chunked upload: 8 % uploaded
+0179.289 (0) Ftp chunked upload: 8.6 % uploaded
+0179.397 (0) Ftp chunked upload: 9.3 % uploaded
+0179.469 (0) Ftp chunked upload: 10 % uploaded
+0179.559 (0) Ftp chunked upload: 10.6 % uploaded
+0179.630 (0) Ftp chunked upload: 11.3 % uploaded
+0179.715 (0) Ftp chunked upload: 12 % uploaded
+0179.786 (0) Ftp chunked upload: 12.6 % uploaded
+0179.857 (0) Ftp chunked upload: 13.3 % uploaded
+0180.004 (0) Ftp chunked upload: 13.9 % uploaded
+0180.093 (0) Ftp chunked upload: 14.6 % uploaded
+0180.165 (0) Ftp chunked upload: 15.3 % uploaded
+0180.234 (0) Ftp chunked upload: 15.9 % uploaded
+0180.349 (0) Ftp chunked upload: 16.6 % uploaded
+0180.418 (0) Ftp chunked upload: 17.3 % uploaded
+0180.524 (0) Ftp chunked upload: 17.9 % uploaded
+0180.595 (0) Ftp chunked upload: 18.6 % uploaded
+0180.693 (0) Ftp chunked upload: 19.3 % uploaded
+0180.764 (0) Ftp chunked upload: 19.9 % uploaded
+0180.882 (0) Ftp chunked upload: 20.6 % uploaded
+0180.962 (0) Ftp chunked upload: 21.2 % uploaded
+0181.082 (0) Ftp chunked upload: 21.9 % uploaded
+0181.153 (0) Ftp chunked upload: 22.6 % uploaded
+0181.260 (0) Ftp chunked upload: 23.2 % uploaded
+0181.341 (0) Ftp chunked upload: 23.9 % uploaded
+0181.419 (0) Ftp chunked upload: 24.6 % uploaded
+0181.529 (0) Ftp chunked upload: 25.2 % uploaded
+0181.614 (0) Ftp chunked upload: 25.9 % uploaded
+0181.714 (0) Ftp chunked upload: 26.6 % uploaded
+0181.783 (0) Ftp chunked upload: 27.2 % uploaded
+0181.888 (0) Ftp chunked upload: 27.9 % uploaded
+0181.972 (0) Ftp chunked upload: 28.6 % uploaded
+0182.082 (0) Ftp chunked upload: 29.2 % uploaded
+0182.167 (0) Ftp chunked upload: 29.9 % uploaded
+0182.548 (0) Ftp chunked upload: 30.5 % uploaded
+0182.681 (0) Ftp chunked upload: 31.2 % uploaded
+0182.786 (0) Ftp chunked upload: 31.9 % uploaded
+0182.882 (0) Ftp chunked upload: 32.5 % uploaded
+0182.951 (0) Ftp chunked upload: 33.2 % uploaded
+0183.056 (0) Ftp chunked upload: 33.9 % uploaded
+0183.151 (0) Ftp chunked upload: 34.5 % uploaded
+0183.259 (0) Ftp chunked upload: 35.2 % uploaded
+0183.335 (0) Ftp chunked upload: 35.9 % uploaded
+0183.449 (0) Ftp chunked upload: 36.5 % uploaded
+0183.560 (0) Ftp chunked upload: 37.2 % uploaded
+0183.704 (0) Ftp chunked upload: 37.8 % uploaded
+0183.784 (0) Ftp chunked upload: 38.5 % uploaded
+0183.904 (0) Ftp chunked upload: 39.2 % uploaded
+0183.976 (0) Ftp chunked upload: 39.8 % uploaded
+0184.051 (0) Ftp chunked upload: 40.5 % uploaded
+0184.260 (0) Ftp chunked upload: 41.2 % uploaded
+0184.349 (0) Ftp chunked upload: 41.8 % uploaded
+0184.517 (0) Ftp chunked upload: 42.5 % uploaded
+0184.669 (0) Ftp chunked upload: 43.2 % uploaded
+0185.030 (0) Ftp chunked upload: 43.8 % uploaded
+0185.163 (0) Ftp chunked upload: 44.5 % uploaded
+0185.359 (0) Ftp chunked upload: 45.1 % uploaded
+0185.452 (0) Ftp chunked upload: 45.8 % uploaded
+0185.582 (0) Ftp chunked upload: 46.5 % uploaded
+0185.720 (0) Ftp chunked upload: 47.1 % uploaded
+0185.915 (0) Ftp chunked upload: 47.8 % uploaded
+0186.007 (0) Ftp chunked upload: 48.5 % uploaded
+0186.118 (0) Ftp chunked upload: 49.1 % uploaded
+0186.485 (0) Ftp chunked upload: 49.8 % uploaded
+0186.603 (0) Ftp chunked upload: 50.5 % uploaded
+0186.820 (0) Ftp chunked upload: 51.1 % uploaded
+0186.937 (0) Ftp chunked upload: 51.8 % uploaded
+0187.086 (0) Ftp chunked upload: 52.5 % uploaded
+0187.290 (0) Ftp chunked upload: 53.1 % uploaded
+0187.480 (0) Ftp chunked upload: 53.8 % uploaded
+0187.778 (0) Ftp chunked upload: 54.4 % uploaded
+0187.935 (0) Ftp chunked upload: 55.1 % uploaded
+0188.085 (0) Ftp chunked upload: 55.8 % uploaded
+0188.257 (0) Ftp chunked upload: 56.4 % uploaded
+0188.365 (0) Ftp chunked upload: 57.1 % uploaded
+0188.533 (0) Ftp chunked upload: 57.8 % uploaded
+0188.666 (0) Ftp chunked upload: 58.4 % uploaded
+0188.765 (0) Ftp chunked upload: 59.1 % uploaded
+0188.986 (0) Ftp chunked upload: 59.8 % uploaded
+0189.448 (0) Ftp chunked upload: 60.4 % uploaded
+0189.827 (0) Ftp chunked upload: 61.1 % uploaded
+0189.913 (0) Ftp chunked upload: 61.7 % uploaded
+0190.025 (0) Ftp chunked upload: 62.4 % uploaded
+0190.114 (0) Ftp chunked upload: 63.1 % uploaded
+0190.233 (0) Ftp chunked upload: 63.7 % uploaded
+0190.331 (0) Ftp chunked upload: 64.4 % uploaded
+0190.433 (0) Ftp chunked upload: 65.1 % uploaded
+0190.530 (0) Ftp chunked upload: 65.7 % uploaded
+0190.625 (0) Ftp chunked upload: 66.4 % uploaded
+0190.747 (0) Ftp chunked upload: 67.1 % uploaded
+0190.840 (0) Ftp chunked upload: 67.7 % uploaded
+0190.960 (0) Ftp chunked upload: 68.4 % uploaded
+0191.060 (0) Ftp chunked upload: 69 % uploaded
+0191.183 (0) Ftp chunked upload: 69.7 % uploaded
+0191.291 (0) Ftp chunked upload: 70.4 % uploaded
+0191.403 (0) Ftp chunked upload: 71 % uploaded
+0191.504 (0) Ftp chunked upload: 71.7 % uploaded
+0191.655 (0) Ftp chunked upload: 72.4 % uploaded
+0191.747 (0) Ftp chunked upload: 73 % uploaded
+0191.866 (0) Ftp chunked upload: 73.7 % uploaded
+0191.963 (0) Ftp chunked upload: 74.4 % uploaded
+0192.099 (0) Ftp chunked upload: 75 % uploaded
+0192.187 (0) Ftp chunked upload: 75.7 % uploaded
+0192.312 (0) Ftp chunked upload: 76.4 % uploaded
+0192.404 (0) Ftp chunked upload: 77 % uploaded
+0192.555 (0) Ftp chunked upload: 77.7 % uploaded
+0192.663 (0) Ftp chunked upload: 78.3 % uploaded
+0192.753 (0) Ftp chunked upload: 79 % uploaded
+0192.854 (0) Ftp chunked upload: 79.7 % uploaded
+0192.993 (0) Ftp chunked upload: 80.3 % uploaded
+0193.349 (0) Ftp chunked upload: 81 % uploaded
+0193.445 (0) Ftp chunked upload: 81.7 % uploaded
+0193.551 (0) Ftp chunked upload: 82.3 % uploaded
+0193.647 (0) Ftp chunked upload: 83 % uploaded
+0193.821 (0) Ftp chunked upload: 83.7 % uploaded
+0193.915 (0) Ftp chunked upload: 84.3 % uploaded
+0194.077 (0) Ftp chunked upload: 85 % uploaded
+0194.200 (0) Ftp chunked upload: 85.6 % uploaded
+0194.290 (0) Ftp chunked upload: 86.3 % uploaded
+0194.803 (0) Ftp chunked upload: 87 % uploaded
+0194.976 (0) Ftp chunked upload: 87.6 % uploaded
+0195.147 (0) Ftp chunked upload: 88.3 % uploaded
+0195.250 (0) Ftp chunked upload: 89 % uploaded
+0195.357 (0) Ftp chunked upload: 89.6 % uploaded
+0195.456 (0) Ftp chunked upload: 90.3 % uploaded
+0195.677 (0) Ftp chunked upload: 91 % uploaded
+0195.892 (0) Ftp chunked upload: 91.6 % uploaded
+0195.998 (0) Ftp chunked upload: 92.3 % uploaded
+0196.203 (0) Ftp chunked upload: 92.9 % uploaded
+0196.311 (0) Ftp chunked upload: 93.6 % uploaded
+0196.440 (0) Ftp chunked upload: 94.3 % uploaded
+0196.553 (0) Ftp chunked upload: 94.9 % uploaded
+0196.786 (0) Ftp chunked upload: 95.6 % uploaded
+0196.897 (0) Ftp chunked upload: 96.3 % uploaded
+0197.366 (0) Ftp chunked upload: 96.9 % uploaded
+0197.880 (0) Ftp chunked upload: 97.6 % uploaded
+0198.020 (0) Ftp chunked upload: 98.3 % uploaded
+0198.242 (0) Ftp chunked upload: 98.9 % uploaded
+0198.511 (0) Ftp chunked upload: 99.6 % uploaded
+0198.699 (0) FTP upload attempt successful (309020.2KB in 20.87s)
+0198.700 (0) Recording as successfully uploaded: backup_2019-01-05-2134_Tesla_d49b55cbe802-uploads.zip
+0198.748 (0) Deleting local file: backup_2019-01-05-2134_Tesla_d49b55cbe802-uploads.zip: OK
+0198.749 (0) FTP upload attempt: backup_2019-01-05-2134_Tesla_d49b55cbe802-others.zip -> ftp://tesla@127.0.0.1//backup_2019-01-05-2134_Tesla_d49b55cbe802-others.zip
+0198.808 (0) Ftp chunked upload: 33.2 % uploaded
+0198.837 (0) Ftp chunked upload: 66.5 % uploaded
+0198.918 (0) Ftp chunked upload: 99.7 % uploaded
+0198.950 (0) FTP upload attempt successful (1551.9KB in 0.19s)
+0198.952 (0) Recording as successfully uploaded: backup_2019-01-05-2134_Tesla_d49b55cbe802-others.zip
+0198.956 (0) Deleting local file: backup_2019-01-05-2134_Tesla_d49b55cbe802-others.zip: OK
+0198.959 (0) FTP upload attempt: backup_2019-01-05-2134_Tesla_d49b55cbe802-db.gz -> ftp://tesla@127.0.0.1//backup_2019-01-05-2134_Tesla_d49b55cbe802-db.gz
+0198.995 (0) Ftp chunked upload: 43.2 % uploaded
+0199.040 (0) Ftp chunked upload: 86.4 % uploaded
+0199.076 (0) FTP upload attempt successful (1194.5KB in 0.12s)
+0199.077 (0) Recording as successfully uploaded: backup_2019-01-05-2134_Tesla_d49b55cbe802-db.gz
+0199.081 (0) Deleting local file: backup_2019-01-05-2134_Tesla_d49b55cbe802-db.gz: OK
+0199.097 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0199.099 (0) Number of backup sets in history: 3; groups (db): 1
+0199.099 (0) Examining (for databases) backup set with group_id=0, nonce=d49b55cbe802, datestamp=1546713254 (Jan 05 2019 18:34:14)
+0199.100 (0) This backup set is the backup set just made, so will not be deleted.
+0199.100 (0) Examining (for databases) backup set with group_id=0, nonce=b676f543aef1, datestamp=1546702144 (Jan 05 2019 15:29:04)
+0199.100 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0199.101 (0) Examining (for databases) backup set with group_id=0, nonce=63ffdabeae48, datestamp=1546625044 (Jan 04 2019 18:04:04)
+0199.101 (0) 1546625044: db: this set includes a database (backup_2019-01-04-2104_Tesla_63ffdabeae48-db.gz); db count is now 2
+0199.101 (0) 1546625044: db: over retain limit (2); will delete this database
+0199.101 (0) Delete file: backup_2019-01-04-2104_Tesla_63ffdabeae48-db.gz, service=ftp
+0199.141 (0) FTP delete: succeeded (/backup_2019-01-04-2104_Tesla_63ffdabeae48-db.gz)
+0199.146 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0199.148 (0) Number of backup sets in history: 3; groups (files): 1
+0199.149 (0) Examining (for files) backup set with nonce=d49b55cbe802, datestamp=1546713254 (Jan 05 2019 18:34:14)
+0199.149 (0) This backup set is the backup set just made, so will not be deleted.
+0199.150 (0) This backup set is the backup set just made, so will not be deleted.
+0199.150 (0) This backup set is the backup set just made, so will not be deleted.
+0199.150 (0) This backup set is the backup set just made, so will not be deleted.
+0199.151 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0199.152 (0) Examining (for files) backup set with nonce=b676f543aef1, datestamp=1546702144 (Jan 05 2019 15:29:04)
+0199.152 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0199.152 (0) Examining (for files) backup set with nonce=63ffdabeae48, datestamp=1546625044 (Jan 04 2019 18:04:04)
+0199.152 (0) plugins: over retain limit (2); will delete this file entity
+0199.152 (0) themes: over retain limit (2); will delete this file entity
+0199.152 (0) uploads: over retain limit (2); will delete this file entity
+0199.152 (0) others: over retain limit (2); will delete this file entity
+0199.152 (0) Delete file: backup_2019-01-04-2104_Tesla_63ffdabeae48-plugins.zip, service=ftp
+0199.153 (0) Delete file: backup_2019-01-04-2104_Tesla_63ffdabeae48-themes.zip, service=ftp
+0199.155 (0) Delete file: backup_2019-01-04-2104_Tesla_63ffdabeae48-uploads.zip, service=ftp
+0199.157 (0) Delete file: backup_2019-01-04-2104_Tesla_63ffdabeae48-others.zip, service=ftp
+0199.237 (0) FTP delete: succeeded (/backup_2019-01-04-2104_Tesla_63ffdabeae48-plugins.zip)
+0199.239 (0) FTP delete: succeeded (/backup_2019-01-04-2104_Tesla_63ffdabeae48-themes.zip)
+0199.491 (0) FTP delete: succeeded (/backup_2019-01-04-2104_Tesla_63ffdabeae48-uploads.zip)
+0199.536 (0) FTP delete: succeeded (/backup_2019-01-04-2104_Tesla_63ffdabeae48-others.zip)
+0199.551 (0) This backup set is now empty; will remove from history
+0199.553 (0) Deleting log file (log.63ffdabeae48.txt)
+0199.558 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0199.563 (0) Resume backup (d49b55cbe802, 0): finish run
+0199.566 (0) Decremented the semaphore (fd) by 1
+0199.568 (0) Semaphore (fd) unlocked
+0199.569 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0199.587 (0) The backup apparently succeeded and is now complete
+0199.589 (0) No email will/can be sent - the user has not configured an email address.
+0199.591 (0) Резервное копирование успешно завершено
